@@ -1,10 +1,5 @@
 body:hover{
     margin: 20px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
      animation-name: example;
   animation-duration: 0.5s;
@@ -41,26 +36,10 @@ body:hover{
     text-shadow: 5px 3px 4px ;
      box-shadow: 12px 2px 4px ;
      
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
+   
 }
 
 .border-blue {
     border: 1px dotted blue;
 }
-
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
